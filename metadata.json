@@ -1,0 +1,7 @@
+{
+  "name": "Door Dost",
+  "description": "Hyperlocal trusted neighborhood delivery and personal runner platform with Verified Dost badges, Dost-Cam Live Verify, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Open Doorframe Arch with warm glow -->
+    <path
+        android:pathData="M34,76 L34,38 C34,26.95 42.95,18 54,18 C65.05,18 74,26.95 74,38 L74,76 Z"
+        android:strokeWidth="4"
+        android:strokeColor="#FFFB923C"
+        android:fillColor="#22FF8A00" />
+    
+    <!-- Door Step Base -->
+    <path
+        android:pathData="M26,76 L82,76 L82,82 L26,82 Z"
+        android:fillColor="#FFFB923C" />
+    <path
+        android:pathData="M22,82 L86,82 L86,86 L22,86 Z"
+        android:fillColor="#FFE2E8F0" />
+
+    <!-- Dost Waving Hand & Package Character Silhouette -->
+    <!-- Head -->
+    <path
+        android:pathData="M54,34m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0"
+        android:fillColor="#FFFFFFFF" />
+    <!-- Smiling cap/badge -->
+    <path
+        android:pathData="M48,32 C48,29 60,29 60,32 Z"
+        android:fillColor="#FFF59E0B" />
+
+    <!-- Body & Vest -->
+    <path
+        android:pathData="M46,42 L62,42 L64,62 L44,62 Z"
+        android:fillColor="#FFFFFFFF" />
+    <path
+        android:pathData="M49,42 L59,42 L58,62 L50,62 Z"
+        android:fillColor="#FFF97316" />
+
+    <!-- Waving Right Hand (The Friendly Dost Wave) -->
+    <path
+        android:pathData="M62,44 C67,40 73,34 72,28 C70,26 67,29 64,36"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M72,27 C75,25 76,22 73,20 C71,19 69,22 70,26"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFF59E0B"
+        android:strokeLineCap="round" />
+
+    <!-- Left Hand Holding Delivery Box -->
+    <path
+        android:pathData="M46,46 L38,52 L39,58"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round" />
+    <!-- Delivery Box with ribbon -->
+    <path
+        android:pathData="M33,52 L43,52 L43,62 L33,62 Z"
+        android:fillColor="#FFFBBF24" />
+    <path
+        android:pathData="M37,52 L39,52 L39,62 L37,62 Z"
+        android:fillColor="#FFEA580C" />
+
+    <!-- Legs stepping up doorstep -->
+    <path
+        android:pathData="M47,62 L45,74"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M61,62 L63,74"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Little Heart / Smiling Trust Pin -->
+    <path
+        android:pathData="M54,49m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0"
+        android:fillColor="#FF22C55E" />
+</vector>
+
